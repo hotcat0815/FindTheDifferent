@@ -1,0 +1,47 @@
+﻿[
+  {
+    "id": "10101",
+    "name": "",
+    "groupID": "101",
+    "url": "",
+    "url_depth": "",
+    "url_oversea": "",
+    "url_depth_oversea": ""
+  },
+  {
+    "id": "20101",
+    "name": "",
+    "groupID": "201",
+    "url": "https://pic.imgdb.cn/item/64d7b40e1ddac507ccc39136.png",
+    "url_depth": "https://pic.imgdb.cn/item/64d7b4131ddac507ccc39cf9.jpg",
+    "url_oversea": "",
+    "url_depth_oversea": ""
+  },
+  {
+    "id": "20102",
+    "name": "",
+    "groupID": "201",
+    "url": "https://pic.imgdb.cn/item/64d7b5a91ddac507ccc7b569.png",
+    "url_depth": "https://pic.imgdb.cn/item/64d7b5b71ddac507ccc7d891.jpg",
+    "url_oversea": "",
+    "url_depth_oversea": ""
+  },
+  {
+    "id": "30101",
+    "name": "",
+    "groupID": "301",
+    "url": "https://pic2.imgdb.cn/item/645109e50d2dde57771df6b0.png",
+    "url_depth": "https://pic2.imgdb.cn/item/645109e50d2dde57771df6d5.png",
+    "url_oversea": "",
+    "url_depth_oversea": ""
+  },
+  {
+    "id": "",
+    "name": "",
+    "groupID": "",
+    "url": "",
+    "url_depth": "",
+    "url_oversea": "",
+    "url_depth_oversea": ""
+  }
+]
